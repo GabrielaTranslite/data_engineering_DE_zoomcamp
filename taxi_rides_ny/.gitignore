@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+target/
+dbt_packages/
+logs/
+
+# Data directory
+data/
+
+
+# DuckDB database file
+taxi_rides_ny.duckdb
