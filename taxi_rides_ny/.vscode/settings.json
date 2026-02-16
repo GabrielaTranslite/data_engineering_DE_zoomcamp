@@ -1,0 +1,8 @@
+﻿{
+  "files.exclude": {
+    "**/dbt_packages": true
+  },
+  "search.exclude": {
+    "**/dbt_packages": true
+  }
+}
